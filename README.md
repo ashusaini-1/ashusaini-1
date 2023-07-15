@@ -1,4 +1,20 @@
-### Hi there 👋
+## 👋 About Me
+
+Hello there! I'm [Your Name], a passionate developer with a love for coding and building impactful software solutions. With a strong foundation in [mention your areas of expertise], I enjoy tackling complex problems and transforming ideas into reality.
+
+Here are a few things to know about me:
+
+- 💻 Curretly i am working on MERN Stack.
+- 🌱 I'm constantly learning and staying up-to-date with the latest technologies and trends.
+- ✨ I'm passionate about web Development.
+- 🤝 I believe in the power of collaboration and enjoy working with diverse teams to achieve common goals.
+- 💡 I enjoy exploring new ideas, experimenting with different technologies, and finding innovative solutions.
+
+In my free time, you can find me [mention your hobbies or activities outside of coding]. I'm always seeking new opportunities to grow, learn, and make a positive impact on the world through technology.
+
+Let's collaborate and create something amazing together!
+
+
 
 
 ## 🌐 Socials:

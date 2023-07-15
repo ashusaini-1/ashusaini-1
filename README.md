@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hello there! I'm [Your Name], a passionate developer with a love for coding and building impactful software solutions. With a strong foundation in [mention your areas of expertise], I enjoy tackling complex problems and transforming ideas into reality.
+Hello there! I'm Ashu Saini, a passionate developer with a love for coding and building impactful software solutions. With a strong foundation on MERN Stack, I enjoy tackling complex problems and transforming ideas into reality.
 
 Here are a few things to know about me:
 
@@ -9,13 +9,6 @@ Here are a few things to know about me:
 - ✨ I'm passionate about web Development.
 - 🤝 I believe in the power of collaboration and enjoy working with diverse teams to achieve common goals.
 - 💡 I enjoy exploring new ideas, experimenting with different technologies, and finding innovative solutions.
-
-In my free time, you can find me [mention your hobbies or activities outside of coding]. I'm always seeking new opportunities to grow, learn, and make a positive impact on the world through technology.
-
-Let's collaborate and create something amazing together!
-
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashu-saini-295a781b1) 
